@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Winner Isac KODJO  
 
-Passionate about **electronics**, **industrial computing**, and currently advancing my knowledge as a **project coordinator in IT**. I enjoy exploring **data analysis** and working on innovative projects in the field of technology.
+Passionate about **electronics**, **industrial computing**, and currently advancing my knowledge as a **project coordinator in IT**. I enjoy exploring **data** and working on innovative projects in the field of technology.
 
 ---
 
