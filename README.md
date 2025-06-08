@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Winner Isac KODJO**
 
-🎓 *Full Stack Developer in training * — Passionate about **mobile development**, **data engineering**, and **embedded systems**. I love building smart solutions and exploring how **technology** can solve **real-world problems**.
+🎓 *Full Stack Developer in training* — Passionate about **mobile development**, **data engineering**, and **embedded systems**. I love building smart solutions and exploring how **technology** can solve **real-world problems**.
 
 ---
 
