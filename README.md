@@ -1,52 +1,56 @@
-# 👋 Hi, I'm Winner Isac KODJO  
+👋 Hi, I'm Winner Isac KODJO
+🎓 Full Stack Developer in training  — Passionate about mobile development, data engineering, and embedded systems. I love building smart solutions and exploring how technology can solve real-world problems.
 
-Passionate about **electronics**, **industrial computing**, and currently advancing my knowledge as a **project coordinator in IT**. I enjoy exploring **data** and working on innovative projects in the field of technology.
+🌟 About Me
+📚 Currently in a Bachelor’s degree in IT Project Coordination (Keyce Informatique, France).
 
----
+🛠 Background in Electronics and Industrial Computing.
 
-## 🌟 About Me
+📈 Interested in mobile development, data science, and IoT/embedded tech.
 
-- 🎓 Background in **Electronics** and **Industrial Computing**.
-- 🌱 Currently training as an **IT Project Coordinator**.
-- 📊 Interested in **data science**, **project management**, and **cutting-edge technologies**.
-- 🌍 Based in France and Europe.
+🌍 Based in France, open to opportunities across Europe.
 
----
+💼 Skills & Technologies
+👨‍💻 Programming Languages
+JavaScript (React, React Native), Python, PHP, C/C++, Java
 
-## 💻 Skills & Tools
+SQL (MySQL, PostgreSQL)
 
-- **Languages:** Python, C, SQL  
-- **Data Analysis:** Pandas, NumPy, Matplotlib  
-- **Industrial Tech:** Microcontrollers, Automation Systems  
-- **Project Management:** Agile, Scrum, Jira  
+📱 Mobile & Web Development
+React Native, Angular, Node.js, Flask, SpringBoot
 
----
+REST APIs, Responsive UI, Cross-platform apps
 
+⚙️ Embedded & Automation
+Arduino, ESP32, Raspberry Pi
 
+Sensors, data acquisition, edge processing
 
-## 🤝 Collaborations
+📊 Data & Visualization
+Pandas, NumPy, Matplotlib
 
-💡 Open to collaborate on:  
-- Data Projects  
-- IoT and Automation  
-- IT Project   
+Power BI, Google Data Studio, Tableau
 
-Feel free to reach out if you have a project in mind!  
+🧠 Soft Skills
+Agile / Scrum, Teamwork, Fast learner, Problem solver
 
----
+Clear communication, Adaptability, Autonomy
 
-## 📫 Contact Me  
+🤝 Open to Collaborate On
+Full Stack or Mobile App Projects
 
-- 📧 Email: kodjowinnerisac@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/winner-isac-kodjo/  
-- 🌐 Portfolio: 
+IoT or Embedded Systems
 
----
+Data Visualization & Dashboards
 
-😄 Pronouns: He/Him  
-⚡ Fun Fact: I love combining technology with creativity to solve real-world problems!  
+📫 Contact Me
+✉️ Email: kodjowinnerisac@gmail.com
 
----
+💼 LinkedIn: linkedin.com/in/winner-isac-kodjo
 
-*“Technology is best when it brings people together.” – Matt Mullenweg*
+🌐 Portfolio: 
 
+😄 Pronouns: He/Him
+⚡ Fun Fact: I love combining creativity and code to build real solutions that matter.
+
+“Technology is best when it brings people together.” – Matt Mullenweg
