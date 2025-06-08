@@ -8,8 +8,8 @@
 
 - 📚 Currently in a Bachelor’s degree in **IT Project Coordination** (Keyce Informatique, France)
 - 🛠 Background in **Electronics** and **Industrial Computing**
-- 📈 Interested in **mobile development**, **data science**, and **IoT/embedded tech**
-- 🌍 Based in **France**, open to opportunities across **Europe**
+- 📈 Interested in **development**, **data science**, and **IoT/embedded tech**
+- 🌍 Based in **France**, open to opportunities across **Europe and the World**
 
 ---
 
